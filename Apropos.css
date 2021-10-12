@@ -1,0 +1,20 @@
+header, .block{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.block{
+    border: 1px solid black;
+    margin-top: 100px;
+    padding: 20px;
+}
+section{
+    width: 500px;
+    
+
+
+}
+
+img{
+    border-radius: 50%;
+}

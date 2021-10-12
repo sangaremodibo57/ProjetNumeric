@@ -1,0 +1,33 @@
+body main section aside img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+body .listP {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 5px;
+    background-color: rgb(247, 238, 238);
+    box-shadow: 3px 3px 3px black;
+    
+    
+}
+div{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+aside{
+    width: 300px;
+    margin: 5px;
+    padding: auto;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+    padding: 10px;
+}
